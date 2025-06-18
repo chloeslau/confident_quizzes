@@ -1,0 +1,21 @@
+Q1. What kind of plot should you use for multiple categorical variables?
+	a) violin
+	b) scatter
+	c) correlation matrix
+	d) heatmap
+
+Q2. Which command correctly loads Seaborn?
+	a) import seaborn as sns
+	b) from seaborn import *
+	c) include seaborn
+	d) load seaborn
+
+Q3. Which Seaborn function is used to create a histogram?
+	a) sns.barplot()
+	b) sns.histplot()
+	c) sns.distplot()
+	d) sns.lineplot()
+---
+
+Answers:
+1. d,   2. a,   3. b
